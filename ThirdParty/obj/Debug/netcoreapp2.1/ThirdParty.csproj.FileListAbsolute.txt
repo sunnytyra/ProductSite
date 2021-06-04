@@ -1,0 +1,8 @@
+E:\Documents\Personal\TechAssignment\maersk\ProductSite\ThirdParty\bin\Debug\netcoreapp2.1\ThirdParty.deps.json
+E:\Documents\Personal\TechAssignment\maersk\ProductSite\ThirdParty\bin\Debug\netcoreapp2.1\ThirdParty.dll
+E:\Documents\Personal\TechAssignment\maersk\ProductSite\ThirdParty\bin\Debug\netcoreapp2.1\ThirdParty.pdb
+E:\Documents\Personal\TechAssignment\maersk\ProductSite\ThirdParty\obj\Debug\netcoreapp2.1\ThirdParty.csproj.CoreCompileInputs.cache
+E:\Documents\Personal\TechAssignment\maersk\ProductSite\ThirdParty\obj\Debug\netcoreapp2.1\ThirdParty.AssemblyInfoInputs.cache
+E:\Documents\Personal\TechAssignment\maersk\ProductSite\ThirdParty\obj\Debug\netcoreapp2.1\ThirdParty.AssemblyInfo.cs
+E:\Documents\Personal\TechAssignment\maersk\ProductSite\ThirdParty\obj\Debug\netcoreapp2.1\ThirdParty.dll
+E:\Documents\Personal\TechAssignment\maersk\ProductSite\ThirdParty\obj\Debug\netcoreapp2.1\ThirdParty.pdb

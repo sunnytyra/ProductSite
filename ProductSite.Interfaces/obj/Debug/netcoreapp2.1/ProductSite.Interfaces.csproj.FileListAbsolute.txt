@@ -1,0 +1,8 @@
+E:\Documents\Personal\TechAssignment\maersk\ProductSite\ProductSite.Interfaces\bin\Debug\netcoreapp2.1\ProductSite.Interfaces.deps.json
+E:\Documents\Personal\TechAssignment\maersk\ProductSite\ProductSite.Interfaces\bin\Debug\netcoreapp2.1\ProductSite.Interfaces.dll
+E:\Documents\Personal\TechAssignment\maersk\ProductSite\ProductSite.Interfaces\bin\Debug\netcoreapp2.1\ProductSite.Interfaces.pdb
+E:\Documents\Personal\TechAssignment\maersk\ProductSite\ProductSite.Interfaces\obj\Debug\netcoreapp2.1\ProductSite.Interfaces.csproj.CoreCompileInputs.cache
+E:\Documents\Personal\TechAssignment\maersk\ProductSite\ProductSite.Interfaces\obj\Debug\netcoreapp2.1\ProductSite.Interfaces.AssemblyInfoInputs.cache
+E:\Documents\Personal\TechAssignment\maersk\ProductSite\ProductSite.Interfaces\obj\Debug\netcoreapp2.1\ProductSite.Interfaces.AssemblyInfo.cs
+E:\Documents\Personal\TechAssignment\maersk\ProductSite\ProductSite.Interfaces\obj\Debug\netcoreapp2.1\ProductSite.Interfaces.dll
+E:\Documents\Personal\TechAssignment\maersk\ProductSite\ProductSite.Interfaces\obj\Debug\netcoreapp2.1\ProductSite.Interfaces.pdb

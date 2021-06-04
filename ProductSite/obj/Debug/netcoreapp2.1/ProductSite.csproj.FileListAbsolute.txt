@@ -1,0 +1,14 @@
+E:\Documents\Personal\TechAssignment\maersk\ProductSite\ProductSite\bin\Debug\netcoreapp2.1\ProductSite.deps.json
+E:\Documents\Personal\TechAssignment\maersk\ProductSite\ProductSite\bin\Debug\netcoreapp2.1\ProductSite.runtimeconfig.json
+E:\Documents\Personal\TechAssignment\maersk\ProductSite\ProductSite\bin\Debug\netcoreapp2.1\ProductSite.runtimeconfig.dev.json
+E:\Documents\Personal\TechAssignment\maersk\ProductSite\ProductSite\bin\Debug\netcoreapp2.1\ProductSite.dll
+E:\Documents\Personal\TechAssignment\maersk\ProductSite\ProductSite\bin\Debug\netcoreapp2.1\ProductSite.pdb
+E:\Documents\Personal\TechAssignment\maersk\ProductSite\ProductSite\obj\Debug\netcoreapp2.1\ProductSite.csprojAssemblyReference.cache
+E:\Documents\Personal\TechAssignment\maersk\ProductSite\ProductSite\obj\Debug\netcoreapp2.1\ProductSite.csproj.CoreCompileInputs.cache
+E:\Documents\Personal\TechAssignment\maersk\ProductSite\ProductSite\obj\Debug\netcoreapp2.1\ProductSite.AssemblyInfoInputs.cache
+E:\Documents\Personal\TechAssignment\maersk\ProductSite\ProductSite\obj\Debug\netcoreapp2.1\ProductSite.AssemblyInfo.cs
+E:\Documents\Personal\TechAssignment\maersk\ProductSite\ProductSite\obj\Debug\netcoreapp2.1\ProductSite.dll
+E:\Documents\Personal\TechAssignment\maersk\ProductSite\ProductSite\obj\Debug\netcoreapp2.1\ProductSite.pdb
+E:\Documents\Personal\TechAssignment\maersk\ProductSite\ProductSite\bin\Debug\netcoreapp2.1\ProductSite.Interfaces.dll
+E:\Documents\Personal\TechAssignment\maersk\ProductSite\ProductSite\bin\Debug\netcoreapp2.1\ProductSite.Interfaces.pdb
+E:\Documents\Personal\TechAssignment\maersk\ProductSite\ProductSite\obj\Debug\netcoreapp2.1\ProductSite.csproj.CopyComplete
